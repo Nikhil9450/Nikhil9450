@@ -3,7 +3,7 @@
 </h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=24&pause=1000&color=00EFFF&background=141321&center=true&vCenter=true&width=500&lines=Full+Stack+Developer;From%20Curiosity+to+Code;JavaScript+%7C+MERN+%7C+Java" alt="Typing Animation"/>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=24&pause=1000&color=00EFFF&background=141321&center=true&vCenter=true&width=500&lines=Frontend+Developer;From%20Curiosity+to+Code;JavaScript+%7C+%7C" alt="Typing Animation"/>
 </p>
 
 ---
@@ -19,7 +19,7 @@
 ### 🚀 Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=js,ts,react,nodejs,express,mongodb,tailwind,bootstrap,java,mysql,wordpress,postman,vite,npm,css,vscode,fastapi,electron,figma&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=js,react,tailwind,bootstrap,postman,npm,css,vscode" />
 </p>
 
 ---
